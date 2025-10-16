@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Reina</title>
+    <link rel="stylesheet" href="estilo1/estilo_1.css">
+    <link rel="icon" href="img/logo.png" type="image/x - icon">
+</head>
+
+
+<body>
+
+<nav> 
+<input type="checkbox" id="check">
+<label for="check" class="logo">
+    <i class="fas fa-bars"></i>
+    
+</label>
+
+<img src="img/logo.png" width="20px" class="logo">
+<a href="" class="enlace"></a>
+<ul>
+    <li><a class="active" href="">INICIO</a></li>
+    <li><a class="active" href="">NOSOTROS</a></li>
+    <li><a class="active" href="">PRODUCTOS</a></li>
+    <li><a class="active" href="">PROGRAMA</a></li>
+    <li><a class="active" href="">CONTACTOS</a></li>
+</ul>
+
+
+</nav>
+<br>
+<br>
+
+<section>
+<img src="img/Banner.png" width="100%" height="269">
+</section>
+    
+<br>
+<br>
+
+<center>
+<table>
+<tr>
+<tr>
+<td>
+    <img src="img/Imagen 2.png" class="img-fluid" width="300
+    "
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><div>
+     <h2>Producto: La Reina</h2>
+     <p> Nuestra miel es 100% natural, recolectada de forma artesanal directamente desde colmenas ubicadas en entornos libres de contaminación. Sin aditivos, sin conservantes y sin procesos industriales que alteren su pureza. </p>
+    <a href="https://santanatura.com.pe/shop/miel-de-abejas-con-propoleos-santa-natura/"
+    target="_blank"  class="bottoweb"> VER PRODUCTO</a>
+</div>
+</td>
+</tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<tr>
+    <td>
+        <div>
+            <h2>  Produto 02: LA Reina</h2>
+            <p>
+                En cada frasco de nuestra miel natural se encuentra el trabajo incansable de las abejas y la pureza de los campos donde florecen las plantas más nobles. Sin procesos artificiales, sin químicos, solo miel pura, tal como la produce la colmena.</p>
+            <h2>Características</h2>
+            <ul>
+                <li>Region de producción: Lima
+                </li>
+                <li>Tipo de miel: Dorado</li>
+                <li>Producción: 2024</li>
+            </ul>
+            <a href="https://santanatura.com.pe/shop/miel-de-abejas-santa-natura/?srsltid=AfmBOorI4BZ7bpAThWWxqF6STrccQ69Z6gWyXorD5TrCLe-Y1sXxuhQP"
+            target="_blank" class="bottoweb">VER PRODUCTO</a>
+        </div>
+    </td>
+</tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><img src="img/Imagen1.png" width="900%" class="img-fluid"></td>
+</tr>
+</center>
+</table>
+</center>
+<br>
+    <center>
+        <article> 
+            <h2>TITULO DE CONTENIDO</h2>
+            <P>DESCRIPCIÓN DE CONTENIDO</P>
+        </article>
+    </center>
+</br>
+<footer>
+
+<div class="container-footer-all">
+     <div class="container.body">
+          <div class="colum1">
+            <h4> Informacion de la empresa</h4> <p></p>
+             Esta empresa se dedica a la venta de productos........<p></p>
+          </div>
+            <class="colum2">
+             <h4>Redes sociales</h4>
+             <div class="row">
+                <img src="img/Icono Face.png" width="30px"> 
+                <label>Siguenos en Facebook</label>
+             </div>
+             <div class="row">
+                <img src="img/Icono twittwe.png" width="30px"> 
+                <label>Siguenos en Twittwe</label>
+             </div>
+             <div class="row">
+                <img src="img/Icono Instagram.png" width="30px"> 
+                <label>Siguenos en Instagram</label>
+             </div>
+                <div class="row">
+                  <img src="img/Icono tik tok.png" width="30px"> 
+                  <label>Siguenos en Tik Tok</label>
+             </div>
+                  <div class="row">
+                  <img src="img/Icono youtube.png" width="30px"> 
+                  <label>Siguenos en YouTube</label>
+             </div>
+
+
+             <div class="colum3"> 
+                <h4>CONTACTOS</h4>
+                <div class="row2">
+                    <img src="img/Icono Ubicacion.png" width="30px"> 
+                    <label>AV Loa libertadores KM 25 - ICA</label>
+                </div>
+
+                <div class="row2"></div> 
+                           <img src="img/Icono Telefono.png" width="30px">
+                           <label>+51 933-024-438</label>
+             </div>
+             <div class="row2"></div> 
+                           <img src="img/Icono de Correo.png" width="30px">
+                           <label>1133788@SENATI.PE</label>
+             </div>
+             
+             <div class="container-footer">
+                <div class="copyright">
+                    02025 Todos los derechos reservados - <a href = "#"> La Reina </a>
+                </div>
+                
+                <div class="Informacion">
+                    <a href="#">Informacion</a> - <a href="#">Politica</a> - <a href="#">Terminos y 
+                        Condiciones</a>
+                </div>
+             </div>
+
+</div>
+</footer>
+</body>
+</html>
